@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Good 2
+// @name        Youtube
 // @namespace   youtube
 // @include     /^https:\/\/www\.youtube\.com\/.*/
 // @version     1
